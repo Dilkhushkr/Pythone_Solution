@@ -1,0 +1,6 @@
+a = int(input("Enter the value :"))
+b = int(input("Enter tne value :"))
+print(a/b)
+print(a%b)
+print(a//b)
+print(a**b)
